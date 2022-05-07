@@ -6,7 +6,7 @@
   <link href="https://hikarunarara.github.io/atom.xml" rel="self"/>
   
   <link href="https://hikarunarara.github.io/"/>
-  <updated>2022-05-04T07:04:34.962Z</updated>
+  <updated>2022-05-07T07:11:29.245Z</updated>
   <id>https://hikarunarara.github.io/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>无穷的远方1</title>
+    <link href="https://hikarunarara.github.io/%E6%97%A0%E7%A9%B7%E7%9A%84%E8%BF%9C%E6%96%B9/cl2vj3ti80001jwuq0hc3fx10/"/>
+    <id>https://hikarunarara.github.io/%E6%97%A0%E7%A9%B7%E7%9A%84%E8%BF%9C%E6%96%B9/cl2vj3ti80001jwuq0hc3fx10/</id>
+    <published>2022-05-07T07:11:37.247Z</published>
+    <updated>2022-05-07T07:11:29.245Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;壹&quot;&gt;&lt;a href=&quot;#壹&quot; class=&quot;headerlink&quot; title=&quot;壹&quot;&gt;&lt;/a&gt;壹&lt;/h3&gt;&lt;p&gt;一食纪死了。&lt;/p&gt;
+&lt;p&gt;他在前天晚上发布了定时视频，我昨天晚上才偶然间看到消息。&lt;/p&gt;
+&lt;p&gt;他说，他没有遗憾，更多的是感谢和对不起。&lt;/p&gt;
+&lt;p&gt;他说，他的前半生过的很失败，说我们不必为他难过，他只是过客。&lt;/p&gt;
+&lt;p&gt;他说，愿我们的余生都幸福，他说，记得好好吃饭。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="无穷的远方" scheme="https://hikarunarara.github.io/categories/%E6%97%A0%E7%A9%B7%E7%9A%84%E8%BF%9C%E6%96%B9/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>建站日志1</title>
-    <link href="https://hikarunarara.github.io/uncategorized/cl2rajz080001vsuqbnsb3wio/"/>
-    <id>https://hikarunarara.github.io/uncategorized/cl2rajz080001vsuqbnsb3wio/</id>
+    <link href="https://hikarunarara.github.io/%E5%BB%BA%E7%AB%99%E6%97%A5%E5%BF%97/cl2vj3tii0002jwuq4z441uxe/"/>
+    <id>https://hikarunarara.github.io/%E5%BB%BA%E7%AB%99%E6%97%A5%E5%BF%97/cl2vj3tii0002jwuq4z441uxe/</id>
     <published>2022-05-04T03:47:39.626Z</published>
-    <updated>2022-05-04T07:04:34.962Z</updated>
+    <updated>2022-05-07T07:10:57.540Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;无语了，怎么这么难建。&quot;&gt;&lt;a href=&quot;#无语了，怎么这么难建。&quot; class=&quot;headerlink&quot; title=&quot;无语了，怎么这么难建。&quot;&gt;&lt;/a&gt;无语了，怎么这么难建。&lt;/h3&gt;&lt;p&gt;昨天辛辛苦苦搭了一天网站，明明是按照教程一步一步来走的，debug的路上却让我十分崩溃。许多功能和整体的设计不是很完善，还在慢慢学习中，不过到最后，在浏览器上打开自己网站页面的时候还是蛮愉快的。&lt;/p&gt;
@@ -29,6 +50,8 @@
 &lt;p&gt;他本人应该是不希望以发现网站为由去寻找本人，但我还是这么做了，甚至以“想要询问一些技术问题”为由加了他的qq好友（虽然之后一直在躺尸）。惊喜中发现他离我很近，是我同学的同学；却也很远，我们是两座永不相连的孤岛。我能做的便是不打扰，记录下来，然后将这个网站一直写下去。&lt;/p&gt;</summary>
     
     
+    
+    <category term="建站日志" scheme="https://hikarunarara.github.io/categories/%E5%BB%BA%E7%AB%99%E6%97%A5%E5%BF%97/"/>
     
     
   </entry>
